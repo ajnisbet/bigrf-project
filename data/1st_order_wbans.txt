@@ -1,0 +1,290 @@
+LIST OF NATIONAL WEATHER SERVICE 1ST ORDER STATIONS (CONTINENTAL US) WITH
+CALL-ID AND WBAN NUMBERS. OFFICIAL HISTORICAL DATA AND VERIFICATIONS
+AVAILABLE.
+
+COMPILED BY WEATHER 2000 - www.weather2000.com
+
+STATE  CITY                  LOCATION                        CALL-ID WBAN
+-----  ----                  --------                        ------- ----
+  AL  BIRMINGHAM             INTERNATIONAL AIRPORT             BHM   13876
+  AL  HUNTSVILLE             INTNAL/JONES FIELD                HSV   03856
+  AL  MOBILE                 BATES FIELD                       MOB   13894
+  AL  MONTGOMERY             DANNELLY FIELD                    MGM   13895
+
+  AR  FORT SMITH             MUNICIPAL AIRPORT                 FSM   13964
+  AR  LITTLE ROCK            ADAMS FIELD                       LIT   13963
+
+  AZ  FLAGSTAFF              PULLIAM AIRPORT                   FLG   03103
+  AZ  PHOENIX                SKY HARBOR INTL AIRPORT           PHX   23183
+  AZ  TUCSON                 INTERNATIONAL AIRPORT             TUS   23160
+  AZ  WINSLOW                WINSLOW AIRPORT                   INW   23194
+
+  CA  BAKERSFIELD            KERN COUNTY AIR TERMINAL          BFL   23155
+  CA  BISHOP                 BISHOP AIRPORT                    BIH   23157
+  CA  EUREKA                 DOWNTOWN                          EKA   24213
+  CA  FRESNO                 FRESNO AIR TERMINAL               FAT   93193
+  CA  LONG BEACH             LONG BEACH AIRPORT                LGB   23129
+  CA  LOS ANGELES            INTERNATIONAL AIRPORT             LAX   23174
+  CA  LOS ANGELES            DOWNTOWN L.A./USC CAMPUS          CQT   93134
+  CA  REDDING                REDDING MUNICIPAL                 RDD   24257
+  CA  SACRAMENTO             EXECUTIVE AIRPORT                 SAC   23232
+  CA  SAN DIEGO              LINDBERGH FIELD                   SAN   23188
+  CA  SAN FRANCISCO          INTERNATIONAL AIRPORT             SFO   23234
+  CA  SAN FRANCISCO          DOWNTOWN SF                        -    23272
+  CA  SANTA MARIA            SANTA MARIA PUBLIC AIRPORT        SMX   23273
+  CA  STOCKTON               METROPOLITAN AIRPORT              SCK   23237
+
+  CO  ALAMOSA                SAN LUIS VALLEY RGNL APT          ALS   23061
+  CO  COLORADO SPRINGS       COLORADO SPRINGS MUNICIPAL AP     COS   93037
+  CO  DENVER                 DENVER INTERNATIONAL AP           DEN   03017
+  CO  GRAND JUNCTION         WALKER FIELD                      GJT   23066
+  CO  PUEBLO                 MEMORIAL AIRPORT                  PUB   93058
+
+  CT  BRIDGEPORT             SIKORSKY MEMORIAL AIRPORT         BDR   94702
+  CT  HARTFORD               BRADLEY INTERNATIONAL AIRPORT     BDL   14740
+
+  DE  WILMINGTON             NEW CASTLE COUNTY APRT            ILG   13781
+
+  DC  WASHINGTON DC          RONALD REAGAN NATIONAL AP         DCA   13743
+  DC  WASHINGTON DC/DULLES   DULLES INTERNATIONAL AIRPORT      IAD   93738
+
+  FL  DAYTONA BEACH          INTERNATIONAL AIRPORT             DAB   12834
+  FL  FORT MYERS             PAGE FIELD                        FMY   12835
+  FL  GAINESVILLE            REGIONAL AIRPORT                  GNV   12816
+  FL  JACKSONVILLE           INTERNATIONAL AIRPORT             JAX   13889
+  FL  KEY WEST               INTERNATIONAL AIRPORT             EYW   12836
+  FL  MIAMI                  INTERNATIONAL AIRPORT             MIA   12839
+  FL  ORLANDO                INTERNATIONAL AIRPORT             MCO   12815
+  FL  PENSACOLA              PENSACOLA REGIONAL AIRPT          PNS   13899
+  FL  TALLAHASSEE            MUNICIPAL AIRPORT                 TLH   93805
+  FL  TAMPA                  INTERNATIONAL AIRPORT             TPA   12842
+  FL  VERO BEACH             MUNICIPAL AIRPORT                 VRB   12843
+  FL  WEST PALM BEACH        PALM BEACH INTERNATIONAL AP       PBI   12844
+
+  GA  ATHENS                 MUNICIPAL AIRPORT                 AHN   13873
+  GA  ATLANTA                HARTSFIELD ATLANTA INTL AP        ATL   13874
+  GA  AUGUSTA                BUSH FIELD                        AGS   03820
+  GA  COLUMBUS               METROPOLITAN AIRPORT              CSG   93842
+  GA  MACON                  MIDDLE GA REGIONAL AIRPORT        MCN   03813
+  GA  SAVANNAH               MUNICIPAL AIRPORT                 SAV   03822
+
+  IA  DES MOINES             INTERNATIONAL AIRPORT             DSM   14933
+  IA  DUBUQUE                MUNICIPAL AIRPORT                 DBQ   94908
+  IA  SIOUX CITY             MUNICIPAL AIRPORT                 SUX   14943
+  IA  WATERLOO               L.B. MUNICIPAL AIRPORT            ALO   94910
+
+  ID  BOISE                  BOISE AIR TER. (GOWEN FLD.)       BOI   24131
+  ID  LEWISTON               LEWISTON-NEZ PERCE COUNTY AP      LWS   24149
+  ID  POCATELLO              MUNICIPAL AIRPORT                 PIH   24156
+
+  IL  CHICAGO                OHARE INTERNATIONAL AIRPORT       ORD   94846
+  IL  MOLINE                 QUAD CITY AIRPORT                 MLI   14923
+  IL  PEORIA                 GREATER PEORIA AIRPORT            PIA   14842
+  IL  ROCKFORD               GREATER ROCKFORD AIRPORT          RFD   94822
+  IL  SPRINGFIELD            CAPITAL AIRPORT                   SPI   93822
+
+  IN  EVANSVILLE             DRESS REGIONAL AIRPORT            EVV   93817
+  IN  FORT WAYNE             BAER FIELD                        FWA   14827
+  IN  INDIANAPOLIS           INTERNATIONAL AIRPORT             IND   93819
+  IN  SOUTH BEND             MICHIANA REGIONAL AIRPORT         SBN   14848
+
+  KS  CONCORDIA              BLOSSER MUNICIPAL AIRPORT         CNK   13984
+  KS  DODGE CITY             DODGE CITY REGIONAL ARPT          DDC   13985
+  KS  GOODLAND               RENNER FIELD                      GLD   23065
+  KS  TOPEKA                 MUNICIPAL(PHILIP BILLARD)AP       TOP   13996
+  KS  WICHITA                MID-CONTINENT AIRPORT             ICT   03928
+
+  KY  COVINGTON/CINCINNATI   CINCINNATI/NORTHERN KY INT        CVG   93814
+  KY  JACKSON                JULIAN CARROLL AP                 JKL   03889
+  KY  LEXINGTON              BLUE GRASS FIELD                  LEX   93820
+  KY  LOUISVILLE             STANDIFORD FIELD                  SDF   93821
+  KY  PADUCAH                BARKLEY REGIONAL ARPT             PAH   03816
+
+  LA  BATON ROUGE            RYAN AIRPORT                      BTR   13970
+  LA  LAKE CHARLES           MUNICIPAL AIRPORT                 LCH   03937
+  LA  NEW ORLEANS            NEW ORLEANS INT'L AIRPORT         MSY   12916
+  LA  SHREVEPORT             SHREVEPORT REGIONAL AIRPORT       SHV   13957
+
+  MA  BLUE HILL              MILTON OBS                        MQE   14753
+  MA  BOSTON                 GEN LOGAN INTERNATIONAL AP        BOS   14739
+  MA  WORCESTER              WORCESTER REGIONAL AIRPORT        ORH   94746
+
+  MD  BALTIMORE              BALTIMORE-WASHINGTON INT'L AP     BWI   93721
+
+  ME  CARIBOU                MUNICIPAL AIRPORT                 CAR   14607
+  ME  PORTLAND               PORTLAND INTERNATIONAL JETPORT    PWM   14764
+
+  MI  ALPENA                 PHELPS COLLINS AIRPORT            APN   94849
+  MI  DETROIT                METROPOLITAN AIRPORT              DTW   94847
+  MI  FLINT                  BISHOP AIRPORT                    FNT   14826
+  MI  GRAND RAPIDS           KENT COUNTY AIRPORT               GRR   94860
+  MI  HOUGHTON LAKE          ROSCOMMON COUNTY APRT             HTL   94814
+  MI  LANSING                CAPITAL CITY AIRPORT              LAN   14836
+  MI  MARQUETTE              COUNTY AIRPORT                    MQT   94850
+  MI  MUSKEGON               MUSKEGON COUNTY AIRPORT           MKG   14840
+  MI  SAULT STE. MARIE       SAULT STE MARIE MUNI APT          ANJ   14847
+
+  MN  DULUTH                 INTERNATIONAL AIRPORT             DLH   14913
+  MN  INTERNATIONAL FALLS    FALLS INTERNATIONAL AP            INL   14918
+  MN  MINNEAPOLIS-ST.PAUL    INTERNATIONAL AIRPORT             MSP   14922
+  MN  ROCHESTER              MUNICIPAL AIRPORT                 RST   14925
+  MN  SAINT CLOUD            MUNICIPAL AIRPORT                 STC   14926
+
+  MO  COLUMBIA               COLUMBIA REGIONAL AIRPORT         COU   03945
+  MO  KANSAS CITY            INTERNATIONAL AIRPORT             MCI   03947
+  MO  SPRINGFIELD            REGIONAL AIRPORT                  SGF   13995
+  MO  ST. LOUIS              INTERNATIONAL AIRPORT             STL   13994
+
+  MS  JACKSON                ALLEN C THOMPSON FIELD            JAN   03940
+  MS  MERIDIAN               KEY FIELD                         MEI   13865
+  MS  TUPELO                 TUPLO MUNI/LEMONS AIRPORT         TUP   93862
+
+  MT  BILLINGS               INTERNATIONAL AIRPORT             BIL   24033
+  MT  GLASGOW                INT'L AIRPORT                     GGW   94008
+  MT  GREAT FALLS            INTERNATIONAL AIRPORT             GTF   24143
+  MT  HAVRE                  CITY-COUNTY AIRPORT               HVR   94012
+  MT  HELENA                 HELENA AIRPORT                    HLN   24144
+  MT  KALISPELL              GLACIER PARK INT'L AIRPORT        FCA   24146
+  MT  MISSOULA               MISSOULA INT'L AIRPORT            MSO   24153
+
+  NC  ASHEVILLE              ASHEVILLE REGIONAL AIRPORT        AVL   03812
+  NC  CAPE HATTERAS          WEATHER SERVICE BUILDING          HSE   93729
+  NC  CHARLOTTE              DOUGLAS INTERNATIONAL AIRPORT     CLT   13881
+  NC  GREENSBORO-WNSTN-SAL   GREENSBORO REG. AP, NC            GSO   13723
+  NC  RALEIGH                RALEIGH-DURHAM AIRPORT            RDU   13722
+  NC  WILMINGTON             NEW HANOVER COUNTY AIRPORT        ILM   13748
+
+  ND  BISMARCK               MUNICIPAL AIRPORT                 BIS   24011
+  ND  FARGO                  HECTOR AIRPORT                    FAR   14914
+  ND  GRAND FORKS            INTERNATIONAL AIRPORT             GFK   14916
+  ND  WILLISTON              SLOULIN FIELD INT'L AIRPORT       ISN   94014
+
+  NE  GRAND ISLAND           HALL COUNTY REGIONAL AP           GRI   14935
+  NE  LINCOLN                MUNICIPAL AIRPORT                 LNK   14939
+  NE  NORFOLK                KARL STEFAN MEMORIAL AIRPORT      OFK   14941
+  NE  NORTH PLATTE           LEE BIRD FIELD                    LBF   24023
+  NE  OMAHA                  EPPLEY AIRFIELD                   OMA   14942
+  NE  SCOTTSBLUFF            SCOTTS BLUFF COUNTY AIRPORT       BFF   24028
+  NE  VALENTINE              MILLER FIELD                      VTN   24032
+
+  NH  CONCORD                CONCORD MUNICIPAL                 CON   14745
+  NH  MOUNT WASHINGTON       SUMMIT OBSERVATORY                MWN   14755
+
+  NJ  ATLANTIC CITY          AVIATION FACILITIES EXPER CNTR    ACY   93730
+  NJ  ATLANTIC CITY          STATE MARINA                       -    13724
+  NJ  NEWARK                 INTERNATIONAL AIRPORT             EWR   14734
+
+  NM  ALBUQUERQUE            INTL AIRPORT-KIRTLAND AFB         ABQ   23050
+  NM  CLAYTON                MUNICIPAL AIRPORT                 CAO   23051
+  NM  ROSWELL                INDUSTRIAL AIR CENTER AP          ROW   23009
+
+  NV  ELKO                   MUNICIPAL AIRPORT                 EKO   24121
+  NV  ELY                    YELLAND FIELD                     ELY   23154
+  NV  LAS VEGAS              MCCARRAN INTERNATIONAL APT        LAS   23169
+  NV  RENO                   CANNON INTERNATIONAL AP           RNO   23185
+  NV  WINNEMUCCA             MUNICIPAL AIRPORT                 WMC   24128
+
+  NY  ALBANY                 ALBANY INTERNATIONAL AIRPT        ALB   14735
+  NY  BINGHAMTON             BROOME COUNTY AIRPORT             BGM   04725
+  NY  BUFFALO                GREATER BUFFALO INTL AIRPORT      BUF   14733
+  NY  ISLIP                  LONG ISLAND MACARTHUR APT         ISP   04781
+  NY  NEW YORK               LA GUARDIA AIRPORT                LGA   14732
+  NY  NEW YORK               JFK INTERNATIONAL AIRPORT         JFK   94789
+  NY  NEW YORK C.PARK        CENTRAL PARK OBSERVATORY          NYC   94728
+  NY  ROCHESTER              ROCHESTER-MONROE COUNTY AP        ROC   14768
+  NY  SYRACUSE               HANCOCK INTERNATIONAL AIRPORT     SYR   14771
+
+  OH  AKRON                  AKRON-CANTON AIRPORT              CAK   14895
+  OH  CLEVELAND              CLEVELAND HOPKINS INTL AIRPORT    CLE   14820
+  OH  COLUMBUS               PORT COLUMBUS INTL AIRPORT        CMH   14821
+  OH  DAYTON                 INTERNATIONAL AIRPORT             DAY   93815
+  OH  MANSFIELD              LAHM MUNICIPAL AIRPORT            MFD   14891
+  OH  TOLEDO                 TOLEDO EXPRESS AIRPORT            TOL   94830
+  OH  YOUNGSTOWN             MUNICIPAL AIRPORT                 YNG   14852
+
+  OK  OKLAHOMA CITY          WILL ROGERS WORLD AIRPORT         OKC   13967
+  OK  TULSA                  INTERNATIONAL AIRPORT             TUL   13968
+
+  OR  ASTORIA                CLATSOP COUNTY AIRPORT            AST   94224
+  OR  BURNS                  MUNICIPAL APT.                    BNO   94185
+  OR  EUGENE                 MAHLON SWEET FIELD                EUG   24221
+  OR  MEDFORD                ROGUE VALLEY INTNRL AIRPT         MFR   24225
+  OR  PENDLETON              MUNICIPAL AIRPORT                 PDT   24155
+  OR  PORTLAND               INTERNATIONAL AIRPORT             PDX   24229
+  OR  SALEM                  MC NARY FIELD                     SLE   24232
+
+  PA  ALLENTOWN              LEHIGH VALLEY INTRNL AIRPT        ABE   14737
+  PA  AVOCA                  WILKES-BARRE SCRANTON APT         AVP   14777
+  PA  ERIE                   TERMINAL BLDG.                    ERI   14860
+  PA  MIDDLETOWN/HARRISBURG  HARRISBURG INTERNATIONAL AIRPORT  MDT   14711
+  PA  PHILADELPHIA           INTERNATIONAL AIRPORT             PHL   13739
+  PA  PITTSBURGH             GREATER PITTSBURGH INTL AP        PIT   94823
+  PA  WILLIAMSPORT           WILLIAMSPORT-LYCOMING CO AP       IPT   14778
+
+  RI  PROVIDENCE             THEO FRANCIS GREEN STATE AP       PVD   14765
+
+  SC  CHARLESTON             CHARLESTON INT'L AIRPORT          CHS   13880
+  SC  CHARLESTON             DOWNTOWN                           -    13782
+  SC  COLUMBIA               COLUMBIA METROPOLITAN AIRPORT     CAE   13883
+  SC  GRNVL-SPARTANBURG      GREER AIRPORT                     GSP   03870
+
+  SD  ABERDEEN               REGIONAL AIRPORT                  ABR   14929
+  SD  HURON                  HURON REGIONAL AIRPORT            HON   14936
+  SD  RAPID CITY             RAPID CITY REGIONAL AIRPORT       RAP   24090
+  SD  SIOUX FALLS            FOSS FIELD                        FSD   14944
+
+  TN  BRISTOL-JHNSN CTY-KN   TRI-CITY AIRPORT                  TRI   13877
+  TN  CHATTANOOGA            LOVELL FIELD                      CHA   13882
+  TN  KNOXVILLE              MC GHEE TYSON AIRPORT             TYS   13891
+  TN  MEMPHIS                INTERNATIONAL AIRPORT             MEM   13893
+  TN  NASHVILLE              METROPOLITAN AIRPORT              BNA   13897
+  TN  OAK RIDGE              OAK RIDGE                         OQT   53868
+
+  TX  ABILENE                MUNICIPAL AIRPORT                 ABI   13962
+  TX  AMARILLO               INTERNATIONAL AIRPORT             AMA   23047
+  TX  AUSTIN/BERGSTROM       AUSTIN-BERGSTROM INTL APT         AUS   13904
+  TX  BROWNSVILLE            BROWNSVILLE AIRPORT               BRO   12919
+  TX  CORPUS CHRISTI         INTERNATIONAL AIRPORT             CRP   12924
+  TX  DALLAS-FORT WORTH      REGIONAL AIRPORT                  DFW   03927
+  TX  DEL RIO                INTERNATIONAL AIRPORT             DRT   22010
+  TX  EL PASO                INTERNATIONAL AIRPORT             ELP   23044
+  TX  HOUSTON                INTERCONTINENTAL AIRPORT          IAH   12960
+  TX  LUBBOCK                REGIONAL AIRPORT                  LBB   23042
+  TX  MIDLAND-ODESSA         MIDLAND INTERNATIONAL AIRPORT     MAF   23023
+  TX  PORT ARTHUR            JEFFERSON COUNTY AIRPORT          BPT   12917
+  TX  SAN ANGELO             MATHIS FIELD                      SJT   23034
+  TX  SAN ANTONIO            INTERNATIONAL AIRPORT             SAT   12921
+  TX  VICTORIA               VICTORIA REGIONAL AIRPORT         VCT   12912
+  TX  WACO                   WACO REGIONAL AIRPORT             ACT   13959
+  TX  WICHITA FALLS          SHEPPARD AIR FORCE BASE           SPS   13966
+
+  UT  SALT LAKE CITY         INTERNATIONAL AIRPORT             SLC   24127
+
+  VA  LYNCHBURG              MUNICIPAL AIRPORT                 LYH   13733
+  VA  NORFOLK                INTERNATIONAL AIRPORT             ORF   13737
+  VA  RICHMOND               R.E.BYRD INTERNATIONAL AP.        RIC   13740
+  VA  ROANOKE                WOODRUM AIRPORT                   ROA   13741
+  VA  WALLOPS ISLAND         WALLOPS FLIGHT FACILITY           WAL   93739
+
+  VT  BURLINGTON             INTERNATIONAL AIRPORT             BTV   14742
+
+  WA  OLYMPIA                OLYMPIA AIRPORT                   OLM   24227
+  WA  QUILLAYUTE             QUILLAYUTE STATE AIRPORT          UIL   94240
+  WA  SEATTLE                SEATTLE-TACOMA AIRPORT            SEA   24233
+  WA  SPOKANE                INTERNATIONAL AIRPORT             GEG   24157
+  WA  YAKIMA                 YAKIMA MUNICIPAL AIRPORT          YKM   24243
+
+  WI  GREEN BAY              AUSTIN STRAUBEL FIELD             GRB   14898
+  WI  LA CROSSE              MUNICIPAL AIRPORT                 LSE   14920
+  WI  MADISON                DANE COUNTY REGIONAL AIRPORT      MSN   14837
+  WI  MILWAUKEE              GENERAL MITCHELL FIELD            MKE   14839
+
+  WV  BECKLEY                RALEIGH COUNTY MEMORIAL AP        BKW   03872
+  WV  CHARLESTON             YEAGER AIRPORT                    CRW   13866
+  WV  ELKINS                 ELKINS-RANDOLPH COUNTY APT        EKN   13729
+  WV  HUNTINGTON             TRI-STATE AIRPORT                 HTS   03860
+
+  WY  CASPER                 NATRONA COUNTY INT'L AIRPORT      CPR   24089
+  WY  CHEYENNE               MUNICIPAL AIRPORT                 CYS   24018
+  WY  LANDER                 HUNT FIELD                        LND   24021
+  WY  SHERIDAN               SHERIDAN COUNTY AIRPORT           SHR   24029
